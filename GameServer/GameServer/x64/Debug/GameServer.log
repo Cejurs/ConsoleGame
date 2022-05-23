@@ -1,0 +1,7 @@
+﻿  GameServer.cpp
+C:\Users\ilya\source\repos\GameServer\GameServer\GameServer.cpp(29,44): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ilya\source\repos\GameServer\GameServer\GameServer.cpp(35,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ilya\source\repos\GameServer\GameServer\GameServer.cpp(47,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ilya\source\repos\GameServer\GameServer\GameServer.cpp(66,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ilya\source\repos\GameServer\GameServer\GameServer.cpp(152,79): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  GameServer.vcxproj -> C:\Users\ilya\source\repos\GameServer\x64\Debug\GameServer.exe
